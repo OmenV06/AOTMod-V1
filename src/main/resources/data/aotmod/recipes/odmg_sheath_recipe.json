@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":[
+    "aa",
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "aotmod:ultra_hard_steel"
+    }
+  },
+  "result": {
+    "count": 1,
+    "item": "aotmod:odmg_sheath"
+  }
+}

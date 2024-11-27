@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":[
+    "a",
+    "b",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "aotmod:ultra_hard_steel"
+    },
+    "b": {
+      "item": "aotmod:iceburst"
+    }
+  },
+  "result": {
+    "count": 1,
+    "item": "aotmod:odmg_canister"
+  }
+}

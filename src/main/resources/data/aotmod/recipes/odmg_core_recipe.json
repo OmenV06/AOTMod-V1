@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":[
+    "aba",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "aotmod:wire_casing"
+    },
+    "b": {
+      "item": "aotmod:turbine"
+    },
+    "c": {
+      "item": "aotmod:ultra_hard_steel"
+    }
+  },
+  "result": {
+    "count": 1,
+    "item": "aotmod:odmg_core"
+  }
+}

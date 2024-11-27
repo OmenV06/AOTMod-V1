@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":[
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "aotmod:odmg_blade"
+    },
+    "b": {
+      "item": "aotmod:odmg_handle"
+    }
+  },
+  "result": {
+    "count": 1,
+    "item": "aotmod:odmg_sword"
+  }
+}

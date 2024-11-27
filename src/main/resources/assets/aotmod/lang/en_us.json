@@ -1,0 +1,45 @@
+{
+  "item.aotmod.iceburst": "Iceburst",
+  "item.aotmod.iron_bamboo": "Iron Bamboo",
+  "item.aotmod.ultra_hard_steel": "Ultra Hard Steel",
+  "item.aotmod.odmg_blade": "ODMG Blade",
+  "item.aotmod.odmg_handle": "ODMG Handle",
+  "item.aotmod.odmg_sword": "ODMG Sword",
+  "item.aotmod.odmg_gear": "ODMG Gear",
+  "item.aotmod.steel_wire": "Steel Wire",
+  "item.aotmod.thunder_spear": "Thunder Spear",
+  "item.aotmod.thunder_spear4x": "Thunder Spear 4X",
+  "item.aotmod.odmg_canister": "ODMG Canister",
+  "item.aotmod.odmg_sheath": "ODMG Sheath",
+  "item.aotmod.odmg_core": "ODMG Core",
+  "item.aotmod.wire_casing": "Wire Casing",
+  "item.aotmod.turbine": "Turbine",
+  "item.aotmod.titan_serum": "Titan Serum",
+
+  "item.aotmod.odmg_armor": "ODMG Armor",
+
+  "block.aotmod.ultra_hard_steel_block": "Ultra Hard Steel Block",
+  "block.aotmod.titan_hardening": "Titan Hardening",
+
+  "entity.aotmod.titan_three_one": "Three Meter Titan One",
+  "entity.aotmod.titan_four_one": "Four Meter Titan One",
+  "entity.aotmod.titan_four_two": "Four Meter Titan Two",
+  "entity.aotmod.titan_eight_one": "Eight Meter Titan One",
+  "entity.aotmod.titan_fifteen_one": "Fifteen Meter Titan One",
+
+  "key.category.aotmod": "AOT Mod",
+  "key.aotmod.gear_boost": "Gear Boost",
+  "key.aotmod.race_menu": "Race Menu",
+  "key.aotmod.ability_bar": "Ability Bar",
+  "key.aotmod.ability_one": "Ability 1",
+  "key.aotmod.ability_two": "Ability 2",
+  "key.aotmod.ability_three": "Ability 3",
+  "key.aotmod.ability_four": "Ability 4",
+  "key.aotmod.ability_five": "Ability 5",
+  "key.aotmod.ability_six": "Ability 6",
+  "key.aotmod.ability_seven": "Ability 7",
+  "key.aotmod.ability_eight": "Ability 8",
+  "key.aotmod.ability_nine": "Ability 9",
+
+  "itemGroup.aot_tab": "Attack on Titan"
+}

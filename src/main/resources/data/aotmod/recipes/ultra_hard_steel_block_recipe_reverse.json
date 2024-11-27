@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "aotmod:ultra_hard_steel_block"
+    }
+  ],
+  "result":{
+    "item": "aotmod:ultra_hard_steel",
+    "count": 9
+  }
+}

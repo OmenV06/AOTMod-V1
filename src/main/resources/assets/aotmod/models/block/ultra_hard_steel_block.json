@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "aotmod:block/ultra_hard_steel_block"
+  }
+}

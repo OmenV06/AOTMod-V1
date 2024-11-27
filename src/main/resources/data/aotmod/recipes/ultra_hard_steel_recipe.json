@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":[
+    "ab",
+    "ba"
+  ],
+  "key": {
+    "a": {
+      "item": "aotmod:iron_bamboo"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "count": 1,
+    "item": "aotmod:ultra_hard_steel"
+  }
+}

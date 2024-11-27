@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":[
+    "a",
+    "b",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:tnt"
+    },
+    "b": {
+      "item": "aotmod:ultra_hard_steel"
+    }
+  },
+  "result": {
+    "count": 1,
+    "item": "aotmod:thunder_spear"
+  }
+}

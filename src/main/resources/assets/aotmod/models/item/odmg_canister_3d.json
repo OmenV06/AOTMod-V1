@@ -1,0 +1,95 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "aotmod:item/odmg_canister",
+		"particle": "aotmod:item/odmg_canister"
+	},
+	"elements": [
+		{
+			"from": [7, 9, 9],
+			"to": [9, 11, 27],
+			"faces": {
+				"north": {"uv": [2, 2, 3, 3], "texture": "#0"},
+				"east": {"uv": [0, 0, 9, 1], "texture": "#0"},
+				"south": {"uv": [2, 3, 3, 4], "texture": "#0"},
+				"west": {"uv": [0, 1, 9, 2], "texture": "#0"},
+				"up": {"uv": [1, 11, 0, 2], "texture": "#0"},
+				"down": {"uv": [2, 2, 1, 11], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.25, 9.25, 8],
+			"to": [8.75, 10.75, 9],
+			"faces": {
+				"north": {"uv": [3, 2, 4, 3], "texture": "#0"},
+				"east": {"uv": [2, 4, 2.5, 5], "texture": "#0"},
+				"south": {"uv": [3, 3, 4, 4], "texture": "#0"},
+				"west": {"uv": [4, 2, 4.5, 3], "texture": "#0"},
+				"up": {"uv": [3.5, 4.5, 2.5, 4], "texture": "#0"},
+				"down": {"uv": [5, 3, 4, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.75, 9.75, 7.5],
+			"to": [8.25, 10.25, 8],
+			"faces": {
+				"north": {"uv": [3.5, 4, 4, 4.5], "texture": "#0"},
+				"east": {"uv": [4, 3.5, 4.5, 4], "texture": "#0"},
+				"south": {"uv": [4, 4, 4.5, 4.5], "texture": "#0"},
+				"west": {"uv": [4.5, 2, 5, 2.5], "texture": "#0"},
+				"up": {"uv": [3, 5, 2.5, 4.5], "texture": "#0"},
+				"down": {"uv": [5, 2.5, 4.5, 3], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.5, 9.75, 7],
+			"to": [8.5, 10.25, 7.5],
+			"faces": {
+				"north": {"uv": [3, 4.5, 3.5, 5], "texture": "#0"},
+				"east": {"uv": [3.5, 4.5, 4, 5], "texture": "#0"},
+				"south": {"uv": [4.5, 3.5, 5, 4], "texture": "#0"},
+				"west": {"uv": [4, 4.5, 4.5, 5], "texture": "#0"},
+				"up": {"uv": [5, 4.5, 4.5, 4], "texture": "#0"},
+				"down": {"uv": [5, 4.5, 4.5, 5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 8, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 8, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [45, 0, 0],
+			"translation": [-1.5, 5, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [45, 0, 0],
+			"translation": [-1.5, 5, 0]
+		},
+		"ground": {
+			"translation": [0, -4.5, -8.5]
+		},
+		"gui": {
+			"rotation": [90, 45, 0],
+			"translation": [-6.75, 6.75, 2]
+		},
+		"fixed": {
+			"rotation": [90, -45, 0],
+			"translation": [6.75, 6.75, -2]
+		}
+	},
+	"groups": [
+		{
+			"name": "Canister",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3]
+		}
+	]
+}
